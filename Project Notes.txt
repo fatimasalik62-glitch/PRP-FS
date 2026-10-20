@@ -1,0 +1,6 @@
+Project Notes - Study Habits and Student Well-being
+
+1. Our fictional project focuses on 50 university students.
+2. We will look at relationship between daily study hours and sleep quality.
+3. All data used will be fake / fictional for learning purpose only.
+4. Next meeting is to review the survey draft.
